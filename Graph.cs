@@ -31,7 +31,8 @@ namespace GraphAlgo
            if(!contains(input1)){this.addVertex(input1);}
            if(!contains(input2)){this.addVertex(input2);}
            this.addEdge(input1, input2);
-           this.addEdge(input2, input1);
+           //Uncomment code below to make graph undirected
+           //this.addEdge(input2, input1); 
            return this;
        }
 
@@ -72,12 +73,14 @@ namespace GraphAlgo
                    {
                        if(runner.Value == adjacent)
                        {
+                           Console.WriteLine($"Vertices {start} and {adjacent} are connected");
                            return true;
                        }
                        count++;
                    }
                }                   
            }
+           Console.WriteLine($"Vertices {start} and {adjacent} are not connected");
            return false;
        }
     }
