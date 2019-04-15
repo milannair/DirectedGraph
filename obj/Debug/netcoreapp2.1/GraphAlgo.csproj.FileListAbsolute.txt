@@ -1,0 +1,11 @@
+C:\Users\ytk\Desktop\Algoz\GraphAlgo\bin\Debug\netcoreapp2.1\GraphAlgo.deps.json
+C:\Users\ytk\Desktop\Algoz\GraphAlgo\bin\Debug\netcoreapp2.1\GraphAlgo.runtimeconfig.json
+C:\Users\ytk\Desktop\Algoz\GraphAlgo\bin\Debug\netcoreapp2.1\GraphAlgo.runtimeconfig.dev.json
+C:\Users\ytk\Desktop\Algoz\GraphAlgo\bin\Debug\netcoreapp2.1\GraphAlgo.dll
+C:\Users\ytk\Desktop\Algoz\GraphAlgo\bin\Debug\netcoreapp2.1\GraphAlgo.pdb
+C:\Users\ytk\Desktop\Algoz\GraphAlgo\obj\Debug\netcoreapp2.1\GraphAlgo.csprojAssemblyReference.cache
+C:\Users\ytk\Desktop\Algoz\GraphAlgo\obj\Debug\netcoreapp2.1\GraphAlgo.csproj.CoreCompileInputs.cache
+C:\Users\ytk\Desktop\Algoz\GraphAlgo\obj\Debug\netcoreapp2.1\GraphAlgo.AssemblyInfoInputs.cache
+C:\Users\ytk\Desktop\Algoz\GraphAlgo\obj\Debug\netcoreapp2.1\GraphAlgo.AssemblyInfo.cs
+C:\Users\ytk\Desktop\Algoz\GraphAlgo\obj\Debug\netcoreapp2.1\GraphAlgo.dll
+C:\Users\ytk\Desktop\Algoz\GraphAlgo\obj\Debug\netcoreapp2.1\GraphAlgo.pdb
